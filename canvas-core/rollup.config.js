@@ -1,3 +1,5 @@
+{{
+  delete.root.repository
 const resolve = require('rollup-plugin-node-resolve');
 const commonjs = require('rollup-plugin-commonjs');
 const babel = require('rollup-plugin-babel');
@@ -64,3 +66,4 @@ module.exports = [
     watch,
   },
 ];
+}}
