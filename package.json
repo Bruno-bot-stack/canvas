@@ -1,4 +1,5 @@
-{
-  "private": true,
+{{delete.root.title
+  "private": false,
+
   "workspaces": ["canvas-core"]
-}
+}}
